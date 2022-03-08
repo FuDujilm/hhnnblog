@@ -1,24 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://blog.oldcat.co/%E5%8D%9A%E5%AE%A2%E9%87%8D%E6%9E%84.html</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-
-  <url>
-    <loc>http://blog.oldcat.co/</loc>
-    <lastmod>2022-02-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  
-
-  
-</urlset>
+http://blog.oldcat.co/
+http://blog.oldcat.co/%E5%8D%9A%E5%AE%A2%E9%87%8D%E6%9E%84.html
+http://blog.oldcat.co/tags/index.html
+http://blog.oldcat.co/categories/index.html
+http://blog.oldcat.co/link/index.html
